@@ -2,10 +2,10 @@
 
 **Binnect** is an intelligent IoT-based smart dustbin that blends automation with connectivity. Powered by an 8051 microcontroller and ESP8266 Wi-Fi module, this system automatically opens the lid with a hand wave and monitors trash levels in real time via the Blynk IoT app.
 
-> 🧠 "Smarter waste. Cleaner space."
+"Smarter waste. Cleaner space."
 
 
-## 🚀 Features
+## Features
 
 - 🤖 **Touchless Lid Opening** – Just wave your hand, and the lid opens automatically.
 - 📶 **Real-time Trash Monitoring** – View live trash levels on your phone using Blynk.
